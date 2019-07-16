@@ -11,4 +11,4 @@ Bikeshare is a large companie which shares bikes in big cities like washington, 
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I did not use any repo's from other developers. It is made by my own with help of udacity
