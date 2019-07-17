@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import time
 
+#importing data
 Data_Cities = {"chicago": "chicago.csv",
                "washington": "washington.csv",
                "new york city": "new york city.csv"}
