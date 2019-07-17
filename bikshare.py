@@ -6,7 +6,7 @@ import time
 Data_Cities = {"chicago": "chicago.csv",
                "washington": "washington.csv",
                "new york city": "new york city.csv"}
-
+#ask for user input
 def get_filters():
 
     
